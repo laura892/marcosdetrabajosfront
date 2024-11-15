@@ -1,4 +1,4 @@
-const ApiUrl = "https://marcosdetrabajos.vercel.app/chat/";
+const ApiUrl = "https://marcosdetrabajos-tn4e.vercel.app/chat/";
 
 export const createMesage = async (username, content) => {
     console.log(username, content)
